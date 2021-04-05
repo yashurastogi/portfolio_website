@@ -1,0 +1,139 @@
+{
+    "info": {
+        "symbol": "TATASTEEL",
+        "companyName": "TATA Steel Limited",
+        "industry": "STEEL AND STEEL PRODUCTS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "tempSuspendedSeries": [
+            "B1",
+            "E1",
+            "IL",
+            "Q1"
+        ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE081A03018",
+        "isTop10": false,
+        "identifier": "TATASTEELEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "TATASTEEL",
+        "isin": "INE081A01012",
+        "status": "Listed",
+        "listingDate": "18-Nov-1998",
+        "industry": "STEEL",
+        "lastUpdateTime": "01-Apr-2021 16:00:00",
+        "pdSectorPe": 28.71,
+        "pdSymbolPe": 13.91,
+        "pdSectorInd": "NIFTY METAL                                       "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": "-",
+        "faceValue": 10,
+        "issuedCap": 1126490211
+    },
+    "priceInfo": {
+        "lastPrice": 858.9,
+        "change": 47.049999999999955,
+        "pChange": 5.795405555213396,
+        "previousClose": 811.85,
+        "open": 821,
+        "close": 863.05,
+        "vwap": 842.24,
+        "lowerCP": "730.70",
+        "upperCP": "893.00",
+        "pPriceBand": "No Band",
+        "basePrice": 811.85,
+        "intraDayHighLow": {
+            "min": 819,
+            "max": 868.9,
+            "value": 858.9
+        },
+        "weekHighLow": {
+            "min": 251,
+            "minDate": "03-Apr-2020",
+            "max": 868.9,
+            "maxDate": "01-Apr-2021",
+            "value": 858.9
+        }
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 730.7,
+                "buyQty": 0,
+                "sellQty": 145
+            },
+            {
+                "price": 751,
+                "buyQty": 0,
+                "sellQty": 33
+            },
+            {
+                "price": 771.25,
+                "buyQty": 0,
+                "sellQty": 80
+            },
+            {
+                "price": 771.95,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 821,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 875.65,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 880,
+                "buyQty": 250,
+                "sellQty": 0
+            },
+            {
+                "price": 888,
+                "buyQty": 1002,
+                "sellQty": 0
+            },
+            {
+                "price": 890,
+                "buyQty": 55,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 30644,
+            "sell": 8825
+        },
+        "IEP": 821,
+        "totalTradedVolume": 58861,
+        "finalPrice": 821,
+        "finalQuantity": 58861,
+        "lastUpdateTime": "01-Apr-2021 09:08:00",
+        "totalBuyQuantity": 124854,
+        "totalSellQuantity": 142297,
+        "atoBuyQty": 30644,
+        "atoSellQty": 8825
+    }
+}
